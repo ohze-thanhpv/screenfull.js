@@ -1,4 +1,4 @@
-/// <reference lib="dom"/>
+// <reference lib="dom"/>
 
 declare namespace screenfull {
 	type RawEventNames = {
